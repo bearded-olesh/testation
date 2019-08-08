@@ -36,5 +36,15 @@ h1, h2, h3, h4, h5, h6 {
 	color: #70563d;
 	text-transform: uppercase;
 	margin-bottom: 71px;
+	font-weight: normal;
+}
+
+.rooms-and-prices {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.room {
+	background-color: #fff;
 }
 
