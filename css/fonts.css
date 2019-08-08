@@ -1,0 +1,13 @@
+@font-face{
+	font-family: 'NotoSerif';
+	src: url('../fonts/NotoSerifRegular.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face{
+	font-family: 'PTSans';
+	src: url('../fonts/PTSansRegular.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
